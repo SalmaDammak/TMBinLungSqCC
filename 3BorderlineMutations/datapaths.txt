@@ -1,0 +1,4 @@
+train-csv: TilePaths\TrainVal all cancer (0,200) and (400,inf)\TL-010_trainData.csv
+train: TilePaths\TrainVal all cancer (0,200) and (400,inf)\TL-010.mat
+test-csv: TilePaths\Test all cancer\Table.csv
+test: TilePaths\Test all cancer\Table.mat

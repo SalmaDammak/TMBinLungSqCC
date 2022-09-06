@@ -1,0 +1,3 @@
+SP-008-train-csv: Splits\ViableCancer\trainData.csv
+SP-008-test-csv: Splits\ViableCancer\testData.csv
+SP-008: Splits\ViableCancer\Tables.mat
